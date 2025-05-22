@@ -1,4 +1,4 @@
-public class BinarySearch {
+public class Chapter1_Java_BinarySearch {
     public static int binarySearchInt(int[] array, int number) {
         int start = 0;
         int end = array.length - 1;

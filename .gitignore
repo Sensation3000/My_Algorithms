@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
 out/
-!01_BinarySearch/Java/src/main/**/out/
-!01_BinarySearch/Java/src/test/**/out/
+!src/01_BinarySearch/Java/src/main/**/out/
+!src/01_BinarySearch/Java/src/test/**/out/
 
 ### Eclipse ###
 .apt_generated
@@ -12,8 +12,8 @@ out/
 .springBeans
 .sts4-cache
 bin/
-!01_BinarySearch/Java/src/main/**/bin/
-!01_BinarySearch/Java/src/test/**/bin/
+!src/01_BinarySearch/Java/src/main/**/bin/
+!src/01_BinarySearch/Java/src/test/**/bin/
 
 .idea
 Algorithms.iml
